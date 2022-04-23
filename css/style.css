@@ -1,0 +1,60 @@
+.header{
+    background-color: #343A40;
+}
+
+.h1__config{
+    color: #ffffff;
+    font-size:30px;
+    font-weight: 400;    
+
+}
+
+.imagen__CaC{
+    width: 150px;
+}
+
+.nav__header{
+    font-size:110%;
+    margin-right: 5%;
+
+}
+
+.nav__header a{
+    text-decoration: none;
+}
+
+.nav__header a:hover{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.header__log__txt{
+    margin-left: 5%;
+   
+}
+
+
+.carousel-item::before{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: #000000;
+    opacity: 0.5;
+}
+
+
+
+.nav__header__1{
+    color: #b1b1b1;
+
+}
+
+.nav__header__2{
+    color: #16b924;
+    text-align: right;
+    
+}
